@@ -4,6 +4,9 @@
   "description": "Skeleton for voice-line subtitles. Contracts only in v1 — no dialogues yet.",
   "dependencies": ["localization-base"],
   "libs": [],
+  "marketplace": {
+    "displayName": "Localization Audio Subtitle"
+  },
   "lifecycle": {
     "sourcePaths": ["src"],
     "skillsDir": "claude/skills"
